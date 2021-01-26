@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "ReproGen Shared Task at INLG 2021<br /> Online from Aberdeen, UK, September, 2021"
+excerpt: "ReproGen Shared Task<br /> Aberdeen, UK, September, 2021"
 layout: single
 classes: wide
 header:
@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/color-2174065_1280.png
 ---
 
-## ReproGen Shared Task
+## ReproGen Shared Task on Reproducibility of Human Evaluations in NLG
 
 ### Background
 
