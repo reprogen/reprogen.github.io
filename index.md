@@ -1,8 +1,8 @@
 ---
 layout: splash
 permalink: /
-excerpt: "A Shared Task on Reproducibility of Human Evaluations in NLG
-<br /> Aberdeen, UK, September, 2021"
+excerpt: "Shared Task on Reproducibility of Human Evaluations in NLG
+<br /> Results meeting @ INLG'21, Aberdeen, UK, September 2021"
 layout: single
 classes: wide
 header:
