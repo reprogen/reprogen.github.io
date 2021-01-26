@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "ReproGen Shared Task on Reproducibility of Human Evaluations in NLG
+excerpt: "A Shared Task on Reproducibility of Human Evaluations in NLG
 <br /> Aberdeen, UK, September, 2021"
 layout: single
 classes: wide
@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/color-2174065_1280.png
 ---
 
-## ReproGen Shared Task
+## ReproGen
 
 ### Background
 
