@@ -32,7 +32,9 @@ With this call we invite authors of papers describing a human evaluation experim
 
 From the (self-)nominations received, we will make a selection aimed at achieving balance across NLG tasks and publication years.
 
-Please submit your (self-)nominated evaluation papers by filling in the ReproGen evaluation proposal form.
+Please submit your (self-)nominated evaluation papers by filling in the [ReproGen evaluation proposal form].
+
+[ReproGen evaluation proposal form]: https://docs.google.com/forms/d/e/1FAIpQLSc_NSapzNRB0p-dveqNep0htroOagCXXjeTwg2SGWWHwI6tdg/viewform
 
 
 ### About ReproGen
@@ -50,9 +52,9 @@ Full details will be made available when registration opens on 5 February 2020.
 
 28 Jan 2021: Announcement and Call for Human Evaluations to be Reproduced\
 5 Feb 2021: First Call for Participation and registration opens\
-15 Feb 2021: Submission deadline for proposals of human evaluations\ 
+15 Feb 2021: Submission deadline for proposals of human evaluations\
 15 Aug 2021: Submission deadline for reproduction reports\
-End September 2021: Results presented at INLG (conference dates to be confirmed)\
+End September 2021: Results presented at INLG (conference dates to be confirmed)
 
 
 ### Contact
