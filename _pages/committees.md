@@ -20,6 +20,6 @@ Anastasia Shimorina, Université de Lorraine / LORIA, Nancy, France\
 Ehud Reiter, University of Aberdeen, UK
 
 
-### Programme Committee
+### Steering Committee
 
 tba
