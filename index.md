@@ -39,7 +39,7 @@ Please submit your (self-)nominated evaluation papers by filling in the [ReproGe
 
 ### About ReproGen
 
-Following discussion of the ReproGen proposal at INLG’20 GenChal, we are organising ReproGen with two tracks, one an ‘unshared task’ in which teams attempt to reproduce their own prior human evaluation results, the other a shared task in which teams try to reproduce the same prior human evaluation results:
+Following discussion of the [ReproGen proposal](https://www.aclweb.org/anthology/2020.inlg-1.29/) at INLG’20 GenChal, we are organising ReproGen with two tracks, one an ‘unshared task’ in which teams attempt to reproduce their own prior human evaluation results, the other a shared task in which teams try to reproduce the same prior human evaluation results:
 
 * Main Reproducibility Track: For a shared set of selected human evaluations, participants attempt to reproduce their results, using published information plus extra details provided by the authors, and making common-sense assumptions where information is still incomplete.
 
@@ -56,6 +56,10 @@ Full details will be made available when registration opens on 5 February 2020.
 15 Aug 2021: Submission deadline for reproduction reports\
 End September 2021: Results presented at INLG (conference dates to be confirmed)
 
+
+### Bibliography
+
+ReproGen [proposal](https://www.aclweb.org/anthology/2020.inlg-1.29/) at INLG'2020
 
 ### Contact
 
