@@ -52,7 +52,7 @@ Full details will be made available when registration opens on 5 February 2020.
 5 Feb 2021: First Call for Participation and registration opens\
 15 Feb 2021: Submission deadline for proposals of human evaluations\ 
 15 Aug 2021: Submission deadline for reproduction reports\
-End September 2021: Results presented at INLG (conference dates to be confirmed)
+End September 2021: Results presented at INLG (conference dates to be confirmed)\
 
 
 ### Contact
