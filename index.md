@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/color-2174065_1280.png
 ---
 
-## ReproGen Shared Task on Reproducibility of Human Evaluations in NLG
+## ReproGen
 
 ## Shared Task Announcement and Call for Human Evaluations to be Reproduced
 
