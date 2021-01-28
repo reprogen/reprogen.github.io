@@ -47,6 +47,9 @@ tba. tenative dates:
 * 15 Aug 2021: Submission deadline for reproduction reports
 * End September 2021: Results presented at INLG (dates to be confirmed)
 
+### Bibliography
+ReproGen [proposal](https://www.aclweb.org/anthology/2020.inlg-1.29/) at INLG'2020
+
 ### Contact Information
 
 <reprogen.task@gmail.com>
