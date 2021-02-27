@@ -65,7 +65,7 @@ Full details and instructions will be provided in the ReproGen participants pack
 15 Feb 2021: Submission deadline for proposals of human evaluations\
 27 Feb 2021: First Call for Participation and registration opens\
 15 Aug 2021: Submission deadline for reproduction reports\
-20-24 September 2021: Results presented at INLG
+20-24 Sep 2021: Results presented at INLG
 
 ### Organisers
 
