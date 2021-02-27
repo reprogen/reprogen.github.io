@@ -43,7 +43,7 @@ The papers and studies, with many thanks to the authors for supporting ReproGen,
 
 ### Track A and B Instructions
 
-Step 1. Fill in the registration form at [https://forms.gle/pBPRjPGwoKCY3hsf7](https://forms.gle/pBPRjPGwoKCY3hsf7), indicating which of the above five papers, or which of your own papers, you wish to carry out a reproduction study for.
+Step 1. Fill in the registration form at [https://forms.gle/pBPRjPGwoKCY3hsf7](https://forms.gle/pBPRjPGwoKCY3hsf7), indicating which of the above papers, or which of your own papers, you wish to carry out a reproduction study for.
 
 Step 2. The ReproGen participants pack will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
 
