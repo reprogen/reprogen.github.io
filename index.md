@@ -39,9 +39,9 @@ The papers and studies, with many thanks to the authors for supporting ReproGen,
 
 <i><b>Dusek et al. (2018)</b>: Findings of the E2E NLG Challenge: [https://www.aclweb.org/anthology/W18-6539.pdf](https://www.aclweb.org/anthology/W18-6539.pdf) [1 evaluation study; English; MTurk; 2 quality criteria; reproduction target: primary scores]</i>
 
-<i><b>Qader et al. (2018)</b>: Generation of Company descriptions using concept-to-text and text-to-text deep models: dataset collection and systems evaluation: [https://www.aclweb.org/anthology/W18-6532.pdf](https://www.aclweb.org/anthology/W18-6532.pdf) [only evaluation study in paper; English; 19 evaluators; 4 quality criteria; reproduction target: primary scores]</i>
+<i><b>Qader et al. (2018)</b>: Generation of Company descriptions using concept-to-text and text-to-text deep models: dataset collection and systems evaluation: [https://www.aclweb.org/anthology/W18-6532.pdf](https://www.aclweb.org/anthology/W18-6532.pdf) [1 evaluation study; English; 19 evaluators; 4 quality criteria; reproduction target: primary scores]</i>
 
-<i><b>Shaikh & Santhanam (2019)</b>: Towards Best Experiment Design for Evaluating Dialogue System Output: [https://www.aclweb.org/anthology/W19-8610.pdf](https://www.aclweb.org/anthology/W19-8610.pdf) [3 evaluation studies differing in experimental design; English; x evaluators; 2 quality criteria; reproduction target: correlation scores between 3 studies]</i>
+<i><b>Shaikh & Santhanam (2019)</b>: Towards Best Experiment Design for Evaluating Dialogue System Output: [https://www.aclweb.org/anthology/W19-8610.pdf](https://www.aclweb.org/anthology/W19-8610.pdf) [3 evaluation studies differing in experimental design; English; 40 evaluators; 2 quality criteria; reproduction target: correlation scores between 3 studies]</i>
 
 ### Track A and B Instructions
 
