@@ -23,9 +23,9 @@ With the ReproGen shared task on reproducibility of human evaluations in NLG we 
 
 Following discussion of the ReproGen proposal at the INLG’20 GenChal session, we are organising ReproGen with two tracks, one an ‘unshared task’ in which teams attempt to reproduce their own prior human evaluation results (Track B below), the other a shared task in which teams repeat existing human evaluation studies with the aim of reproducing their results (Track A):
 
-A. Main Reproducibility Track: For a shared set of selected human evaluation studies, participants repeat one or more studies, and attempt to reproduce their results, using published information plus additional information and resources provided by the authors, and making common-sense assumptions where information is still incomplete.
+**A. Main Reproducibility Track**: For a shared set of selected human evaluation studies, participants repeat one or more studies, and attempt to reproduce their results, using published information plus additional information and resources provided by the authors, and making common-sense assumptions where information is still incomplete.
 
-B. RYO Track: Reproduce Your Own previous human evaluation results, and report what happened. Unshared task. 
+**B. RYO Track**: Reproduce Your Own previous human evaluation results, and report what happened. Unshared task. 
 
 ### Track A Papers
 
