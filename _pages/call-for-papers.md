@@ -6,135 +6,73 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/color-2174065_1280.png
 ---
 
-## Workshop on Human Evaluation of NLP Systems (HumEval)
-### EACL’21, Kiev, Ukraine, 19-20 April 2021
-### <https://humeval.github.io>
-### First Call for Papers
+## First Call for Participation
 
-The HumEval Workshop invites the submission of long and short papers on substantial, original, and unpublished research on all aspects of human evaluation of NLP systems, both intrinsic and extrinsic, including but by no means limited to NLP systems whose output is language.
+### Background
 
-### Invited Speakers
+Across Natural Language Processing (NLP), a growing body of work is exploring the issue of reproducibility in machine learning contexts. However, reproducibility of the results of human evaluation experiments is currently under-addressed. This is of concern because human evaluations provide the benchmarks against which automatic evaluation methods are assessed across NLP, and are moreover widely regarded as the standard form of evaluation in NLG. 
 
-Mohit Bansal, UNC Chapel Hill, US\
-Margaret Mitchell, Google, US\
-Lucia Specia, UCL, UK 
+With the ReproGen shared task on reproducibility of human evaluations in NLG we aim (i) to shed light on the extent to which past NLG evaluations have been reproducible, and (ii) to draw conclusions regarding how human evaluations can be designed and reported to increase reproducibility. If the task is run over several years, we hope to be able to document an overall increase in levels of reproducibility over time.
+
+### About ReproGen
+
+Following discussion of the ReproGen proposal at the INLG’20 GenChal session, we are organising ReproGen with two tracks, one an ‘unshared task’ in which teams attempt to reproduce their own prior human evaluation results (Track B below), the other a shared task in which teams repeat existing human evaluation studies with the aim of reproducing their results (Track A):
+
+**A. Main Reproducibility Track**: For a shared set of selected human evaluation studies, participants repeat one or more studies, and attempt to reproduce their results, using published information plus additional information and resources provided by the authors, and making common-sense assumptions where information is still incomplete.
+
+**B. RYO Track**: Reproduce Your Own previous human evaluation results, and report what happened. Unshared task. 
+
+### Track A Papers
+
+Following a call for proposals, we have selected the papers listed below for inclusion in ReproGen Track A. The authors have agreed to human evaluation studies from their papers as identified below to be used for reproduction studies, and have committed to supporting participants in reproduction studies by providing the system outputs to be evaluated and any reusable tools that were used in evaluations, and by being available for questions during the shared task period. Moreover, all authors have completed the ReproGen Human Evaluation Sheet which we will use as the standard for establishing similarity between different human evaluation studies.
+
+The papers and studies, with many thanks to the authors for supporting ReproGen, are:
+
+<i><b>van der Lee et al. (2017)</b>: PASS: A Dutch data-to-text system for soccer, targeted towards specific audiences: [https://www.aclweb.org/anthology/W17-3513.pdf](https://www.aclweb.org/anthology/W17-3513.pdf) [1 evaluation study; Dutch; 20 evaluators; 1 quality criterion; reproduction target: primary scores]</i>
+
+<i><b>Dusek et al. (2018)</b>: Findings of the E2E NLG Challenge: [https://www.aclweb.org/anthology/W18-6539.pdf](https://www.aclweb.org/anthology/W18-6539.pdf) [1 evaluation study; English; MTurk; 2 quality criteria; reproduction target: primary scores]</i>
+
+<i><b>Qader et al. (2018)</b>: Generation of Company descriptions using concept-to-text and text-to-text deep models: dataset collection and systems evaluation: [https://www.aclweb.org/anthology/W18-6532.pdf](https://www.aclweb.org/anthology/W18-6532.pdf) [1 evaluation study; English; 19 evaluators; 4 quality criteria; reproduction target: primary scores]</i>
+
+<i><b>Shaikh & Santhanam (2019)</b>: Towards Best Experiment Design for Evaluating Dialogue System Output: [https://www.aclweb.org/anthology/W19-8610.pdf](https://www.aclweb.org/anthology/W19-8610.pdf) [3 evaluation studies differing in experimental design; English; 40 evaluators; 2 quality criteria; reproduction target: correlation scores between 3 studies]</i>
+
+### Track A and B Instructions
+
+Step 1. Fill in the registration form at [https://forms.gle/pBPRjPGwoKCY3hsf7](https://forms.gle/pBPRjPGwoKCY3hsf7), indicating which of the above papers, or which of your own papers, you wish to carry out a reproduction study for.
+
+Step 2. The ReproGen participants pack will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
+
+Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Sheet for each reproduction study, by August 15th, 2021.
+
+Step 4. The organisers will carry out light touch review of the evaluation reports according to the following criteria:
+* Evaluation sheet has been completed.
+* Exact repetition of study has been attempted and is described in the report.
+* Report gives full details of the reproduction study, in accordance with the reporting guidelines provided.
+* All tools and resources used in the study are publicly available.
+
+Step 5. Present paper at the results meeting.
+
+Full details and instructions will be provided in the ReproGen participants pack.
 
 ### Important Dates
 
-Dec 2: First Call for Workshop Papers\
-Jan 4: Second Call for Workshop Papers (with new dates)\
-Feb 1: Third Call for Workshop Papers\
-Feb 15: Workshop Papers Due Date\
-Mar 22: Notification of Acceptance\
-Apr 1: Camera-ready papers due\
-Apr 19-20: EACL'21 Workshops
-
-All deadlines are 11.59 pm UTC-12
-
-### Workshop Topic and Content
-
-Human evaluation plays a central role in NLP, from the large-scale crowd-sourced evaluations carried out e.g. by the WMT workshops, to the much smaller experiments routinely encountered in conference papers. Moreover, while NLP embraced automatic evaluation metrics from BLEU (Papineni et al, 2001) onwards, the field has always been acutely aware of their limitations (Callison-Burch et al., 2006; Reiter and Belz, 2009; Novikova et al., 2017; Reiter, 2018), and has gauged their trustworthiness in terms of how well, and how consistently, they correlate with human evaluation scores (Over et al., 2007; Gatt and Belz, 2008; Bojar et al., 2016; Shimorina, 2018; Ma et al., 2019; Mille et al., 2019; Dušek et al., 2020). 
-
-Yet there is growing unease about how human evaluations are conducted in NLP. Researchers have pointed out the less than perfect experimental and reporting standards that prevail (van der Lee et al., 2019). Only a small proportion of papers provide enough detail for reproduction of human evaluations, and in many cases the information provided is not even enough to support the conclusions drawn. More than 200 different quality criteria (Fluency, Grammaticality, etc.) have been used in NLP  (Howcroft et al., 2020). Different papers use the same quality criterion name with different definitions, and the same definition with different names. As a result, we currently do not have a way of determining whether two evaluations assess the same thing which poses problems for both meta-evaluation and reproducibility assessments (Belz et al., 2020). 
-
-Reproducibility in the context of automatically computed system scores has recently attracted a lot of attention, against the background of a troubling history (Pedersen, 2008; Mieskes et al., 2019), where reproduction is perceived as failing in 24.9% of cases for own results, and in 56.7% for another team’s (Mieskes et al., 2019). Initiatives have included the Reproducibility Challenge (Pineau et al., 2019, Sinha et al., 2020); the Reproduction Paper special category at COLING'18; the reproducibility programme at NeurIPS'19 comprising code submission, a reproducibility challenge, and the ML Reproducibility checklist, also adopted by EMNLP'20 and AAAI'21; and the REPROLANG shared task at LREC'20 (Branco et al., 2020). 
-
-However, reproducibility in the context of system scores obtained via human evaluations has barely been addressed at all, with a tiny number of papers (e.g. Belz & Kow, 2010; Cooper & Shardlow, 2020) reporting attempted reproductions of results. The developments in reproducibility of automatically computed scores listed above are important, but it is concerning that not a single one of the initiatives and events above addresses human evaluations. E.g. if a paper fully complies with all of the NeurIPS'19/EMNLP'20 reproducibility criteria, any human evaluation results reported in it may not be reproducible to any degree, simply because the criteria do not address human evaluation in any way. 
-
-With this workshop we wish to create a forum for current human evaluation research and future directions, a space for researchers working with human evaluations to exchange ideas and begin to address the issues that human evaluation in NLP currently faces, including aspects of experimental design, reporting standards, meta-evaluation and reproducibility. We invite papers on topics including, but not limited to, the following:
-
-* Experimental design for human evaluations
-* Reproducibility of human evaluations
-* Ethical considerations in human evaluation of computational systems
-* Quality assurance for human evaluation 
-* Crowdsourcing for human evaluation
-* Issues in meta-evaluation of automatic metrics by correlation with human evaluations
-* Alternative forms of meta-evaluation and validation of human evaluations
-* Comparability of different human evaluations
-* Methods for assessing the quality of human evaluations
-* Methods for assessing the reliability of human evaluations
-* Work on measuring inter-evaluator and intra-evaluator agreement
-* Frameworks, model cards and checklists for human evaluation
-* Explorations of the role of human evaluation in the context of Responsible AI and Accountable AI
-* Protocols for human evaluation experiments in NLP
-
-We welcome work on the above topics and more from any subfield of NLP (and ML/AI more generally), with a particular focus on evaluation of systems that produce language as output. We explicitly encourage the submission of work on both intrinsic and extrinsic evaluation.
-
-### Paper Submission Information
-#### Long Papers: 
-
-Long papers must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included.
-Long papers may consist of up to eight (8) pages of content, plus unlimited pages of references. Final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account.
-Long papers will be presented orally or as posters as determined by the programme committee. Cecisions as to which papers will be presented orally and which as posters will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between long papers presented orally and as posters.
-
-#### Short Papers:
-
-Short paper submissions must describe original and unpublished work. Short papers should have a point that can be made in a few pages. Examples of short papers are a focused contribution, a negative result, an opinion piece, an interesting application nugget, a small set of interesting results.
-Short papers may consist of up to four (4) pages of content, plus unlimited pages of references. Final versions of short papers will be given one additional page of content (up to 5 pages) so that reviewers' comments can be taken into account.
-Short papers will be presented orally or as posters as determined by the programme committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between short papers presented orally and as posters.
-Review forms will be made available prior to the deadlines. For more information on applicable policies, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation).
-
-### Multiple Submission Policy
-
-HumEval’21 allows multiple submissions. However, if a submission has already been, or is planned to be, submitted to another event, this must be clearly stated in the submission form.
-
-### Ethics Policy
-
-Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/adminwiki/index.php?title=ACL_Resolutions#March_5.2C_2020).
-The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the ACL Code of Ethics, or have inadequately addressed legitimate ethical concerns with their work.
-
-### Paper Submission and Templates
-
-Submission is electronic, using the Softconf START conference management system. For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/HumEval2021>. Both long and short papers must be anonymised for double-blind reviewing, must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and must use the EACL’21 templates. You can find the EACL-2021 LaTeX template [on overleaf](https://www.overleaf.com/latex/templates/eacl-2021-proceedings-template/jprrhhtnbrrm) or [download the zip file](https://2021.eacl.org/downloads/eacl2021-templates.zip).
+28 Jan 2021: Announcement and Call for Human Evaluations to be Reproduced\
+15 Feb 2021: Submission deadline for proposals of human evaluations\
+27 Feb 2021: First Call for Participation and registration opens\
+15 Aug 2021: Submission deadline for reproduction reports\
+20-24 Sep 2021: Results presented at INLG
 
 ### Organisers
 
 Anya Belz, University of Brighton, UK\
-Shubham Agarwal, Heriot Watt University, UK\
-Yvette Graham, Trinity College Dublin, Ireland\
-Ehud Reiter, University of Aberdeen, UK\
-Anastasia Shimorina, Université de Lorraine / LORIA, France
+Shubham Agarwal, Heriot-Watt University, UK\
+Anastasia Shimorina, Université de Lorraine / LORIA\
+Ehud Reiter, University of Aberdeen, UK
 
-### PC Members
+### Contact
 
-Mohit Bansal, UNC Chapel Hill, US\
-Saad Mahamood, Trivago, DE\
-Kevin B. Cohen, University of Colorado, US\
-Nitika Mathur, University of Melbourne, Australia\
-Kees van Deemter, Utrecht University, NL\
-Margot Mieskes, UAS Darmstadt, DE\
-Ondrej Dusek, Charles University, Czechia\
-Emiel van Miltenburg, Tilburg University, NL\
-Karën Fort, Sorbonne University, France\
-Margaret Mitchell, Google, US\
-Anette Frank, University of Heidelberg, DE\
-Mathias Mueller, University of Zurich, CH\
-Claire Gardent, CNRS/LORIA Nancy, France\
-Malvina Nissim, Groningen University, NL\
-Albert Gatt, Malta University, Malta\
-Juri Opitz, University of Heidelberg, DE\
-Dimitra Gkatzia, Edinburgh Napier University, UK\
-Ramakanth Pasunuru, UNC Chapel Hill, US\
-Helen Hastie, Heriot-Watt University, UK\
-Maxime Peyrard, EPFL, CH\
-David Howcroft, Heriot Watt University, UK\
-Inioluwa Deborah Raji, Ai Now Institute, US\
-Jackie Chi Kit Cheung, McGill University, Canada\
-Verena Rieser, Heriot Watt University, UK\
-Samuel Läubli, University of Zurich, CH\
-Samira Shaikh, UNC, US\
-Chris van der Lee, Tilburg University, NL\
-Lucia Specia, UCL, UK\
-Nelson Liu, Washington University, US\
-Wei Zhao, TU Darmstadt, DE\
-Qun Liu, Huawei Noah’s Ark Lab, China
-
-
-### Contact Information
-
-<humeval.ws@gmail.com>
-
-<https://humeval.github.io>
+<reprogen.task@gmail.com>\
+[https://reprogen.github.io](https://reprogen.github.io)
