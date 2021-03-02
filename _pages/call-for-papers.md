@@ -9,13 +9,6 @@ header:
   overlay_image: /assets/images/color-2174065_1280.png
 ---
 
-<details>
-<summary>Announcement and call for Reproduction Papers</summary>
-</details>
-
-<details>
-<summary>First Call for Participation</summary>
-
 ## First Call for Participation
 
 ### Background
@@ -83,5 +76,3 @@ Ehud Reiter, University of Aberdeen, UK
 
 <reprogen.task@gmail.com>\
 [https://reprogen.github.io](https://reprogen.github.io)
-
-</details>
