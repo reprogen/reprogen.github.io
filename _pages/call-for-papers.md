@@ -1,5 +1,5 @@
 ---
-title: "Call for papers"
+title: "Call for Participation"
 permalink: /call-for-papers/
 layout: single
 classes: wide
