@@ -11,8 +11,11 @@ header:
 
 <details>
 <summary>Announcement and call for Reproduction Papers</summary>
+</details>
 
+<details>
 <summary>First Call for Participation</summary>
+
 ## First Call for Participation
 
 ### Background
