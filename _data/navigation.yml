@@ -1,4 +1,6 @@
 main:
+  - title: "Announcement"
+    url: /announcement/
   - title: "Calls"
     url: /call-for-papers/
   - title: "Important Dates"
