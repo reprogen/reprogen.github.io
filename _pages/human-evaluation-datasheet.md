@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/color-2174065_1280.png
 ---
-This sheet is described in [Shimorina & Belz (2021)](https://arxiv.org/abs/2103.09710).
+This Human Evaluation Datasheet is described in [Shimorina & Belz (2021)](https://arxiv.org/abs/2103.09710). The template sources can be found in [this repository](https://github.com/Shimorina/human-evaluation-datasheet).
 
 # Paper and Supplementary Resources (Questions 1.1–1.3)
 
