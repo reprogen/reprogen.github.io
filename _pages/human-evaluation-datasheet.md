@@ -1,6 +1,5 @@
 ---
-title: "The Human Evaluation Datasheet 1.0: A Template for Recording  
-  Details of Human Evaluation Experiments in NLP"
+title: "Human Evaluation Datasheet 1.0: A Template for Recording Details of Human Evaluation Experiments in NLP"
 permalink: /heds/
 layout: single
 classes: wide
@@ -9,7 +8,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/color-2174065_1280.png
 ---
-This sheet is described in Shimorina & Belz (2021).
+This sheet is described in [Shimorina & Belz (2021)](https://arxiv.org/abs/2103.09710).
 
 # Paper and Supplementary Resources (Questions 1.1–1.3)
 
