@@ -45,7 +45,7 @@ Step 1. Fill in the registration form at [https://forms.gle/pBPRjPGwoKCY3hsf7](h
 
 Step 2. The ReproGen participants pack will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
 
-Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Sheet for each reproduction study, by August 15th, 2021.
+Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen [Human Evaluation Sheet](https://reprogen.github.io/heds/) for each reproduction study, by August 15th, 2021.
 
 Step 4. The organisers will carry out light touch review of the evaluation reports according to the following criteria:
 * Evaluation sheet has been completed.
