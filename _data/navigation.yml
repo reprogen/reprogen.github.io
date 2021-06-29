@@ -3,6 +3,8 @@ main:
     url: /announcement/
   - title: "Calls"
     url: /call-for-papers/
+  - title: "Submission"
+    url: /submissions/
   - title: "Important Dates"
     url: /dates/
   - title: "Committees"
