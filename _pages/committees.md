@@ -18,8 +18,3 @@ Anya Belz, University of Brighton, UK\
 Shubham Agarwal, Heriot Watt University, UK\
 Anastasia Shimorina, Université de Lorraine / LORIA, Nancy, France\
 Ehud Reiter, University of Aberdeen, UK
-
-
-### Steering Committee
-
-tba
