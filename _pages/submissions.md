@@ -14,12 +14,12 @@ header:
 ### What to submit
 
 * Max 4-page report of the reproduction study including:
-<br /> * description of how the study was conducted
-<br /> * link to where resources used in reproduction study can be obtained
-<br /> * overview of respects in which the reproduction was the same, respects in which it was different, and respects in which choices had to made without knowing what was done in the original study (i.e. whether or not it was the same or different is unknown)
-<br /> * side by side tabular presentation of the original and the reproduction scores
-<br /> * some amount of analysis and comparison between the original and reproduction results
-* Completed HEDS datasheet (please fill in here: https://forms.gle/MgWiKVu7i5UHeMNQ9)
+<br /> - description of how the study was conducted
+<br /> - link to where resources used in reproduction study can be obtained
+<br /> - overview of respects in which the reproduction was the same, respects in which it was different, and respects in which choices had to made without knowing what was done in the original study (i.e. whether or not it was the same or different is unknown)
+<br /> - side by side tabular presentation of the original and the reproduction scores
+<br /> - some amount of analysis and comparison between the original and reproduction results
+* Completed HEDS datasheet (please fill in here: <https://forms.gle/MgWiKVu7i5UHeMNQ9>)
 * Any supplementary material
 
 ### Format and author guidelines
