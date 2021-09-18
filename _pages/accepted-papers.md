@@ -11,23 +11,29 @@ header:
 
 ## ReproGen Shared task 
 
+### Results Report
+
+[The ReproGen Shared Task on Reproducibility of Human Evaluations in NLG: Overview and Results](https://preview.aclanthology.org/inlg-2021/2021.inlg-1.24/)
+<br />
+Anya Belz, Anastasia Shimorina, Shubham Agarwal and Ehud Reiter
+
 ### Track A
 
-* [TUDA-Reproducibility @ ReproGen: Replicability of Human Evaluation of Text-To-Text and Concept-To-Text Generation]()
+* [TUDA-Reproducibility @ ReproGen: Replicability of Human Evaluation of Text-To-Text and Concept-To-Text Generation](https://preview.aclanthology.org/inlg-2021/2021.inlg-1.32/)
 <br />
 Christian Richter, Yanran Chen and Steffen Eger 
 
-* [Another PASS - A Reproduction Study of the Human Evaluation of a Football Report Generation System]()
+* [Another PASS - A Reproduction Study of the Human Evaluation of a Football Report Generation System](https://preview.aclanthology.org/inlg-2021/2021.inlg-1.30/)
 <br />
 Simon Mille, Thiago Castro Ferreira, Anya Belz and Brian Davis 
 
 ### Track B
 
-* [Reproducing a comparison of hedged and non-hedged NLG texts]()
+* [Reproducing a comparison of hedged and non-hedged NLG texts](https://preview.aclanthology.org/inlg-2021/2021.inlg-1.29/)
 <br />
 Saad Mahamood
 
-* [A Reproduction Study of an Annotation-based Human Evaluation of MT Outputs]()
+* [A Reproduction Study of an Annotation-based Human Evaluation of MT Outputs](https://preview.aclanthology.org/inlg-2021/2021.inlg-1.31/)
 <br />
 Maja Popovic and Anya Belz 
 
