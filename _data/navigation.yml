@@ -1,17 +1,11 @@
 main:
-  - title: "Accepted Papers"
-    url: /accepted-papers/
-  - title: "Announcement"
-    url: /announcement/
   - title: "Calls"
-    url: /call-for-papers/
-  - title: "Submission"
-    url: /submissions/
+    url: /2022/call-for-papers/
   - title: "Important Dates"
-    url: /dates/
+    url: /2022/dates/
   - title: "Committees"
-    url: /committees/
+    url: /2022/committees/
   - title: "Contact"
-    url: /contact/
-  - title: "INLG 2021"
-    url: https://inlg2021.github.io/
+    url: /2022/contact/
+  - title: "ReproGen 2021"
+    url: /2021/

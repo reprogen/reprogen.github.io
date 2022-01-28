@@ -1,8 +1,6 @@
 ---
-layout: splash
-permalink: /
-excerpt: "Shared Task on Reproducibility of Evaluations in NLG
-<br/>Results @ INLG'22, Waterville, Maine, USA, July 18-22, 2022"
+title: "Call for Participation"
+permalink: /2022/call-for-papers/
 layout: single
 classes: wide
 header:
@@ -10,8 +8,6 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/color-2174065_1280.png
 ---
-
-## ReproGen 2022
 
 ## First Call for Participation
 

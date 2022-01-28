@@ -1,6 +1,6 @@
 ---
 title: "Committees"
-permalink: /committees/
+permalink: /2021/committees/
 layout: single
 classes: wide
 header:

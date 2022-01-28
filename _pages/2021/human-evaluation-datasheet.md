@@ -1,6 +1,6 @@
 ---
 title: "Human Evaluation Datasheet 1.0: A Template for Recording Details of Human Evaluation Experiments in NLP"
-permalink: /heds/
+permalink: /2021/heds/
 layout: single
 classes: wide
 header:

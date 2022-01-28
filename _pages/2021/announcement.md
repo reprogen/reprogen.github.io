@@ -1,6 +1,6 @@
 ---
 title: "Announcement"
-permalink: /announcement/
+permalink: /2021/announcement/
 layout: single
 classes: wide
 header:

@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: /contact/
+permalink: /2022/contact/
 layout: single
 classes: wide
 header:
@@ -22,4 +22,4 @@ function init(){
 }
 window.addEventListener("load", init, false);
 </script>
-For questions and comments regarding the workshop please contact [the organizers](/committees) at <span class="contactaddr">reprogen.task<span class="athere"></span>gmail.com</span>. 
+For questions and comments regarding the workshop please contact [the organizers](/2022/committees) at <span class="contactaddr">reprogen.task<span class="athere"></span>gmail.com</span>. 

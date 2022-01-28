@@ -1,6 +1,6 @@
 ---
 title: "Accepted Papers"
-permalink: /accepted-papers/
+permalink: /2021/accepted-papers/
 layout: single
 classes: wide
 header:
