@@ -1,8 +1,8 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Shared Task on Reproducibility of Human Evaluations in NLG
-<br /> Results meeting @ INLG'21, Aberdeen, UK, September 2021"
+excerpt: "Shared Task on Reproducibility of Evaluations in NLG
+<br /> Results meeting @ INLG'22, Maine, USA, July 18-22, 2022"
 layout: single
 classes: wide
 header:
@@ -11,27 +11,27 @@ header:
   overlay_image: /assets/images/color-2174065_1280.png
 ---
 
-## ReproGen
+## ReproGen 2022
 
 ## First Call for Participation
 
 ### Background
 
-Across Natural Language Processing (NLP), a growing body of work is exploring the issue of reproducibility in machine learning contexts. However, reproducibility of the results of human evaluation experiments is currently under-addressed. This is of concern because human evaluations provide the benchmarks against which automatic evaluation methods are assessed across NLP, and are moreover widely regarded as the standard form of evaluation in NLG. 
+Across Natural Language Processing (NLP), a growing body of work is exploring the issue of reproducibility in machine learning contexts. The field is currently far from having a generally agreed tool box of methods for defining and assessing reproducibility. Reproducibility of results of human evaluation experiments is particularly under-addressed which is of concern for Natural Language Generation in particular, where human evaluation is common. More generally, human evaluations provide the benchmarks against which automatic evaluation methods are assessed across NLP, and are moreover widely regarded as the standard form of evaluation in NLG.
 
-With the ReproGen shared task on reproducibility of human evaluations in NLG we aim (i) to shed light on the extent to which past NLG evaluations have been reproducible, and (ii) to draw conclusions regarding how human evaluations can be designed and reported to increase reproducibility. If the task is run over several years, we hope to be able to document an overall increase in levels of reproducibility over time.
+Following the organisation of the first ReproGen shared task on reproducibility of human evaluations in NLG as part of Generation Challenges (GenChal) at INLG’21, we are organising the second ReproGen shared task on reproducibility of evaluations in NLG with a widened scope, now extending to both human and automatic evaluation results. As with the first ReproGen shared task, our aim is (i) to shed light on the extent to which past NLG evaluations have been reproducible, and (ii) to draw conclusions regarding how NLG evaluations can be designed and reported to increase reproducibility. If the task is run over several years, we hope to be able to document an overall increase in levels of reproducibility over time.
 
 ### About ReproGen
 
-Following discussion of the ReproGen proposal at the INLG’20 GenChal session, we are organising ReproGen with two tracks, one an ‘unshared task’ in which teams attempt to reproduce their own prior human evaluation results (Track B below), the other a shared task in which teams repeat existing human evaluation studies with the aim of reproducing their results (Track A):
+We are once again organising ReproGen with two tracks, one an ‘unshared task’ in which teams attempt to reproduce their own prior automatic or human evaluation results (Track B below), the other a shared task in which teams repeat existing automatic and human evaluation studies with the aim of reproducing their results (Track A):
 
-**A. Main Reproducibility Track**: For a shared set of selected human evaluation studies, participants repeat one or more studies, and attempt to reproduce their results, using published information plus additional information and resources provided by the authors, and making common-sense assumptions where information is still incomplete.
+**A. Main Reproducibility Track**: For a shared set of selected evaluation studies (see below), participants repeat one or more of the studies, and attempt to reproduce their results, using published information plus additional information and resources provided by the authors, and making common-sense assumptions where information is still incomplete.
 
-**B. RYO Track**: Reproduce Your Own previous human evaluation results, and report what happened. Unshared task. 
+**B. RYO Track**: Reproduce Your Own previous automatic or human evaluation results, and report what happened. Unshared task. 
 
 ### Track A Papers
 
-Following a call for proposals, we have selected the papers listed below for inclusion in ReproGen Track A. The authors have agreed to human evaluation studies from their papers as identified below to be used for reproduction studies, and have committed to supporting participants in reproduction studies by providing the system outputs to be evaluated and any reusable tools that were used in evaluations, and by being available for questions during the shared task period. Moreover, all authors have completed the ReproGen Human Evaluation Sheet which we will use as the standard for establishing similarity between different human evaluation studies.
+We have selected the papers listed below for inclusion in ReproGen Track A, four of which were offered in Track A last year. The authors have agreed to evaluation studies from their papers as identified below to be used for reproduction studies. In all cases, the system outputs to be evaluated and any reusable tools that were used in evaluations are available. We also have available completed ReproGen Human Evaluation Sheets which we will use as the standard for establishing similarity between different human evaluation studies.
 
 The papers and studies, with many thanks to the authors for supporting ReproGen, are:
 
@@ -43,37 +43,40 @@ The papers and studies, with many thanks to the authors for supporting ReproGen,
 
 <i><b>Shaikh & Santhanam (2019)</b>: Towards Best Experiment Design for Evaluating Dialogue System Output: [https://www.aclweb.org/anthology/W19-8610.pdf](https://www.aclweb.org/anthology/W19-8610.pdf) [3 evaluation studies differing in experimental design; English; 40 evaluators; 2 quality criteria; reproduction target: correlation scores between 3 studies]</i>
 
+<i><b>Nisioi et al. (2017)</b>: Exploring Neural Text Simplification Models: https://aclanthology.org/P17-2014.pdf [one automatic evaluation study; reproduction target: two automatic scores]; [one human evaluation study [70 sentences; 9 system outputs; 4 quality criteria; reproduction target: primary scores]</i>
+
 ### Track A and B Instructions
 
-Step 1. Fill in the registration form at [https://forms.gle/pBPRjPGwoKCY3hsf7](https://forms.gle/pBPRjPGwoKCY3hsf7), indicating which of the above papers, or which of your own papers, you wish to carry out a reproduction study for.
+Step 1. Fill in the registration form at [https://forms.gle/TFK9TWDetBYhwNov5](https://forms.gle/TFK9TWDetBYhwNov5), indicating which of the above papers, or which of your own papers, you wish to carry out a reproduction study for.
 
-Step 2. The ReproGen participants pack will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
+Step 2. The ReproGen participants information will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
 
-Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen [Human Evaluation Sheet](_pages/human-evaluation-datasheet.md) for each reproduction study, by August 15th, 2021.
+Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Data Sheet Light (HEDS-Light, a new, simplified version of the original HEDS) for each reproduction study, by 1 June 2022.
 
 Step 4. The organisers will carry out light touch review of the evaluation reports according to the following criteria:
-* Evaluation sheet has been completed.
+* HEDS-Light evaluation sheet has been completed.
 * Exact repetition of study has been attempted and is described in the report.
 * Report gives full details of the reproduction study, in accordance with the reporting guidelines provided.
 * All tools and resources used in the study are publicly available.
 
 Step 5. Present paper at the results meeting.
 
-Full details and instructions will be provided in the ReproGen participants pack.
+Reports will be included in the INLG’22 proceedings and results will be presented in the GenChal’22 session at INLG. Full details and instructions will be provided in the ReproGen participants information.
 
 ### Important Dates
 
-28 Jan 2021: Announcement and Call for Human Evaluations to be Reproduced\
-15 Feb 2021: Submission deadline for proposals of human evaluations\
-27 Feb 2021: First Call for Participation and registration opens\
-15 Aug 2021: Submission deadline for reproduction reports\
-20-24 Sep 2021: Results presented at INLG
+28 Jan 2022: First Call for Participation and registration opens\
+06 Jun 2022: Submission deadline for reproduction reports\
+12 Jun 2022: Reviews and feedback to authors\
+20 Jun 2022: Camera-ready papers due\
+18-22 Jul 2022: Results presented at INLG
+
 
 ### Organisers
 
-Anya Belz, University of Brighton, UK\
-Shubham Agarwal, Heriot-Watt University, UK\
-Anastasia Shimorina, Université de Lorraine / LORIA\
+Anya Belz, ADAPT/DCU, Ireland, and University of Aberdeen, UK
+Maja Popović, ADAPT/DCU, Ireland 
+Anastasia Shimorina, Orange, Lannion, France
 Ehud Reiter, University of Aberdeen, UK
 
 ### Contact
