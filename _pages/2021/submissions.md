@@ -30,7 +30,7 @@ Please use ACL 2021 style files for which LaTeX style files and Microsoft Word t
 
 ### Page limit and content
 
-ReproGen papers have a page limit of 4 pages plus any number of pages with references. Supplementary materials can be submitted alongside a paper submission. Participants are also required to fill in the Human Evaluation Datasheet for each evaluation. More instructions [here](/heds/).
+ReproGen papers have a page limit of 4 pages plus any number of pages with references. Supplementary materials can be submitted alongside a paper submission. Participants are also required to fill in the Human Evaluation Datasheet for each evaluation. More instructions [here](/2021/heds/).
 
 Please note that the submissions need not be anonymised for reviewing.
 
@@ -38,4 +38,4 @@ Please note that the submissions need not be anonymised for reviewing.
 
 Submissions are due on Aug 15, 2021 (11.59 pm UTC-12) and should be emailed to <reprogen.task@gmail.com>.  
 
-For more information, please follow the [CFP](/call-for-papers/).
+For more information, please follow the [CFP](/2021/call-for-papers/).
