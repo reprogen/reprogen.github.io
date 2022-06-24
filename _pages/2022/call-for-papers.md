@@ -51,10 +51,10 @@ Step 1. Fill in the [registration form](https://forms.gle/TFK9TWDetBYhwNov5), in
 
 Step 2. The ReproGen participants information will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
 
-Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Data Sheet (HEDS) for each reproduction study, by 6 June 2022.
+Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen [Human Evaluation Data Sheet](/2022/human-evaluation-datasheet) (HEDS) for each reproduction study, by 6 June 2022.
 
 Step 4. The organisers will carry out light touch review of the evaluation reports according to the following criteria:
-* HEDS evaluation sheet has been completed.
+* [HEDS](/2022/human-evaluation-datasheet) evaluation sheet has been completed.
 * Exact repetition of study has been attempted and is described in the report.
 * Report gives full details of the reproduction study, in accordance with the reporting guidelines provided.
 * All tools and resources used in the study are publicly available.
