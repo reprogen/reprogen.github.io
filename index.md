@@ -11,8 +11,6 @@ header:
   overlay_image: /assets/images/color-2174065_1280.png
 ---
 
-## ReproGen 2022
-
 ## First Call for Participation
 
 ### Background
