@@ -1,6 +1,8 @@
 main:
   - title: "Accepted Papers"
-    url: /2022/
+    url: /2022/accepted-papers/
+  - title: "Submission"
+    url: /2022/submission/
   - title: "Calls"
     url: /2022/call-for-papers/
   - title: "Important Dates"
