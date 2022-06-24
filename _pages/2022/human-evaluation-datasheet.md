@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/color-2174065_1280.png
 ---
-This Human Evaluation Datasheet is described in [Shimorina & Belz (2021)](https://arxiv.org/abs/2103.09710). The template sources can be found in [this GitHub repository](https://github.com/Shimorina/human-evaluation-datasheet).
+This Human Evaluation Datasheet is described in [Shimorina & Belz (2022)](https://aclanthology.org/2022.humeval-1.6/). The template sources can be found in [this GitHub repository](https://github.com/Shimorina/human-evaluation-datasheet).
 
 If you participate in ReproGen, please complete the Human Evaluation Datasheet using [this form](https://forms.gle/MgWiKVu7i5UHeMNQ9).
 
