@@ -9,31 +9,35 @@ header:
   overlay_image: /assets/images/color-2174065_1280.png
 ---
 
-## ReproGen Shared task 
+## ReproGen Shared Task 
 
 ### Results Report
 
-[The ReproGen Shared Task on Reproducibility of Human Evaluations in NLG: Overview and Results](https://aclanthology.org/2021.inlg-1.24/)
+The 2022 ReproGen Shared Task on Reproducibility of Evaluations in NLG: Overview and Results
 <br />
-Anya Belz, Anastasia Shimorina, Shubham Agarwal and Ehud Reiter
+Anya Belz, Anastasia Shimorina, Maja Popovič, and Ehud Reiter
 
 ### Track A
 
-* [TUDA-Reproducibility @ ReproGen: Replicability of Human Evaluation of Text-To-Text and Concept-To-Text Generation](https://aclanthology.org/2021.inlg-1.32/)
+* Reproducibility of Exploring Neural Text Simplification Models: A Review
 <br />
-Christian Richter, Yanran Chen and Steffen Eger 
+Mohammad Arvan, Luís Pina, and Natalie Parde
 
-* [Another PASS - A Reproduction Study of the Human Evaluation of a Football Report Generation System](https://aclanthology.org/2021.inlg-1.30/)
+* A reproduction study of methods for evaluating dialogue system output: Replicating Santhanam and Shaikh (2019)
 <br />
-Simon Mille, Thiago Castro Ferreira, Anya Belz and Brian Davis 
+Anouck Braggaar, Frédéric Tomas, Peter Blomsma, Saar Hommes, Nadine Braun, Emiel van Miltenburg, Chris van der Lee, Martijn Goudbeek, and Emiel Krahmer
+
+*  Reproducing a Manual Evaluation of Simplicity in Text Simplification System Outputs
+<br />
+Maja Popovič, Sheila Castilho, Rudali Huidrom, and Anya Belz
+
 
 ### Track B
 
-* [Reproducing a comparison of hedged and non-hedged NLG texts](https://aclanthology.org/2021.inlg-1.29/)
+* Two Reproductions of a Human-Assessed Comparative Evaluation of a Semantic Error Detection System
 <br />
-Saad Mahamood
+Rudali Huidrom, Ondřej Dušek, Zdeněk Kasner, Thiago Castro Ferreira, and Anya Belz
 
-* [A Reproduction Study of an Annotation-based Human Evaluation of MT Outputs](https://aclanthology.org/2021.inlg-1.31/)
+* The Accuracy Evaluation Shared Task as a Retrospective Reproduction Study
 <br />
-Maja Popovic and Anya Belz 
-
+Craig Thomson and Ehud Reiter
